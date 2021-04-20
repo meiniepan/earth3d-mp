@@ -1,0 +1,2 @@
+<!--pages/fir/fir.wxml-->
+<button bindtap="doHome">haha</button>
